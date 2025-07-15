@@ -5,7 +5,7 @@ Datos para pago por transferencia
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Ficha de Pago - Restaurante La Buena Mesa</title>
+    <title>Ficha de Pago - Carnitas de Morelos</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -47,18 +47,16 @@ Datos para pago por transferencia
 </head>
 <body>
     <h1>Ficha Digital de Pago</h1>
-    <h2>Restaurante La Buena Mesa</h2>
+    <h2>Restaurante Carnitas de Morelos</h2>
     <table>
-        <tr><td>Nombre del restaurante:</td><td>La Buena Mesa</td></tr>
-        <tr><td>Banco:</td><td>Banco Ejemplar</td></tr>
-        <tr><td>Nombre del titular:</td><td>Restaurante La Buena Mesa S.A.</td></tr>
-        <tr><td>CLABE:</td><td>012345678901234567</td></tr>
-        <tr><td>Número de cuenta:</td><td>1234567890</td></tr>
-        <tr><td>Concepto sugerido:</td><td>Pago de consumo - Mesa 5</td></tr>
+        <tr><td>Nombre del restaurante:</td><td>Carnitas de Morelos </td></tr>
+        <tr><td>Banco:</td><td>Banco Klar Ejemplar</td></tr>
+        <tr><td>Nombre del titular:</td><td>Juan Domingo </td></tr>
+        <tr><td>CLABE:</td><td>661610005338886720</td></tr>
     </table>
     <div class="confirmacion">
         Por favor, confirma tu pago enviando una foto del comprobante vía WhatsApp al: <br />
-        <span class="phone">+52 123 456 7890</span>
+        <span class="phone">+52 735 174 7717</span>
     </div>
 </body>
 </html>
