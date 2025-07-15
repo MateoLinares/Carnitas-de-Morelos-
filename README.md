@@ -1,6 +1,6 @@
 # Carnitas-de-Morelos-
 Datos para pago por transferencia 
-<!DOCTYPE html>
+
 <html lang="es">
 <head>
     <meta charset="UTF-8" />
