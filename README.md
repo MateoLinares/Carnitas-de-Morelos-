@@ -52,7 +52,7 @@ Datos para pago por transferencia
         <tr><td>Nombre del restaurante:</td><td>Carnitas de Morelos </td></tr>
         <tr><td>Banco:</td><td>Banco Klar </td></tr>
         <tr><td>Nombre del titular:</td><td>Juan Domingo </td></tr>
-        <tr><td>CUENTA INTERBANCARIA :</td><td>661610005338886720</td></tr>
+        <tr><td>CUENTA KLAR :</td><td>661610005338886720</td></tr>
     </table>
     <div class="confirmacion">
         Por favor, confirma tu pago enviando una foto del comprobante vía WhatsApp al: <br />
